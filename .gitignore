@@ -1,0 +1,5 @@
+# .gitignore
+venv/
+# Ignorer les fichiers audio
+*.mp3
+*.wav
